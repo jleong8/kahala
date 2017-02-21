@@ -1,0 +1,41 @@
+.ui.borderless.topmenu.menu {
+  height: 80px;
+  background-color: #35a488;
+  box-shadow: none;
+  border: none;
+  margin-bottom: 5px;
+}
+
+.ui.borderless.menu{
+  height: 40px;
+  background-color: #b5e1d7;
+  box-shadow: none;
+  border: none;
+  margin-top: -5px;
+}
+
+.ui.dropdown.item.item{
+  padding-bottom: 10px
+}
+
+.ui.small.left.floated.image {
+  padding-top: 10px;
+}
+
+.text {
+  color: white;
+}
+
+.footer-background {
+  background-color: #b5e1d7;
+}
+
+.ui.centered.three.column.divided.grid.grid {
+  box-shadow: none;
+  border: none;
+
+}
+
+.ui.centered.three.column.divided.the.grid {
+  color: black;
+}
